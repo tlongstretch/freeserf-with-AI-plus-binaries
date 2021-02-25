@@ -1,2 +1,1 @@
-# freeserf-with-AI-plus-binaries
-compiled binaries for freeserf-with-AI-plus
+compiled binaries for forkserf (was 'freeserf-with-AI-plus')
